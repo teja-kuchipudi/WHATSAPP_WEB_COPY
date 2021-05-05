@@ -1,0 +1,43 @@
+#div1 {background-color: turquoise;
+        height: 230px;
+        width: 100%;}
+
+#h1_1 {color : white;
+        padding-top: 18px;
+        text-align: center;}
+
+#div2 {display: flex;}
+
+#div3 {background-color: whitesmoke;
+        height: 800px;
+        width: 880px;
+        margin-top: 20px;
+        margin-left: 200px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px grey;
+        background-image: url(https://ibb.co/Tt7Gn8R);
+        background-size: 880px 400px;
+        background-repeat: no-repeat;}
+
+body {margin: 0px;}
+
+#i1 {color: white;
+    margin-top: 50px;
+    margin-left: 120px;}
+
+#h3-1 {color: whitesmoke;
+        padding-top: 50px;
+        padding-left: 10px;
+    }
+
+#div4 {background-color: whitesmoke;
+        height: 1000px;
+        width: 100%;
+        float: left;}
+
+video {margin-top: 430px;}
+
+img {width: 880px;
+    height: 400px}
+
+#videodiv {margin-left: 135px}
